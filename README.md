@@ -38,7 +38,7 @@ Here are a few highlights from my work:
 
 Here’s a quick look at my personal portfolio:
 
-![Portfolio Screenshot](./assets/scr1.png)
+![Portfolio Screenshot](./scr1.png)
 )
 
 
